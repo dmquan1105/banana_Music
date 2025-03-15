@@ -17,7 +17,7 @@
 
 #### Danh sách bài hát (Songs)
 
-![Songs](screenshot/screenshot1.png)
+![Songs](screenshot/screenshot3.png)
 
 #### Danh sách yêu thích (Favorites)
 
@@ -25,7 +25,7 @@
 
 #### Tải nhạc lên (Upload)
 
-![Upload](screenshot/screenshot3.png)
+![Upload](screenshot/screenshot1.png)
 
 ---
 
